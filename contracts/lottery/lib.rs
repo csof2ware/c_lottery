@@ -1,0 +1,1 @@
+// Placeholder for contracts/lottery/lib.rs

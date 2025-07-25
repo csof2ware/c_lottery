@@ -1,0 +1,1 @@
+// Placeholder for substrate-node/runtime/pallets/c_lottery/src/lib.rs
