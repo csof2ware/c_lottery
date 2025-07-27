@@ -45,7 +45,8 @@ contracts/
 
 ### 🛠️ Comandos
 
-```bash
+
+```bash commands
 # Instale o cargo-contract se ainda não tiver
 cargo install cargo-contract --force
 
