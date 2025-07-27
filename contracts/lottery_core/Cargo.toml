@@ -1,0 +1,18 @@
+[package]
+name = "lottery_core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ink = { version = "5.0.2", default-features = false }
+
+[lib]
+name = "lottery_core"
+path = "src/lib.rs"
+crate-type = ["cdylib", "rlib"]
+
+[features]
+default = ["std"]
+std = [
+    "ink/std",
+]
